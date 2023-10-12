@@ -1,0 +1,7 @@
+{
+    "name": "SupportStarcVelika",
+    "author": "testman",
+    "description": "Auto Switch Channel when buy coins from Starc in Velika,for starscape ",
+    "servers": ["https://raw.githubusercontent.com/testman-0/SupportStarcVelika/master/"],
+    "version": "9/17/2023"
+}
